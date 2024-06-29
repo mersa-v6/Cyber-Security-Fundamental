@@ -1,5 +1,3 @@
-# Untitled
-
 # **Incident handling**
 
 - **Definition**
