@@ -2,7 +2,7 @@
 
 [ Open System Interconnection ]
 
-![daw7e0lj.bmp](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/daw7e0lj.bmp)
+![daw7e0lj.bmp](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/daw7e0lj.bmp)
 
 - 7- Application Function Layer
     
@@ -42,7 +42,7 @@
     > [HTTP DATA + TCP HEADER ]
     > 
     
-    ![Untitled](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/Untitled%201.png)
+    ![Untitled](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/Untitled%201.png)
     
 - 3 - Network Function Layer
     

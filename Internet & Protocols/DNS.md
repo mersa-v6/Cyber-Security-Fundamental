@@ -80,7 +80,7 @@ now resolver cache this ip and his domain for feture use and send the ip for the
 
 OS cache this ip and his domain for feture use also and open the domain in browser for the user .
 
-![Untitled](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/Untitled.png)
+![Untitled](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/Untitled.png)
 
 ### example DNS Servers :
 
