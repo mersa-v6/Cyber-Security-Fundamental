@@ -66,17 +66,17 @@ untrusted network, such as the Internet.
             - **Pros**: Can inspect the payload of packets; provide additional security features like content filtering.
             - **Cons**: Can introduce latency; more complex to manage
             
-            ![joinhq0b.bmp](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/joinhq0b.bmp)
+            ![joinhq0b.bmp](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/joinhq0b.bmp)
             
             Type of Proxy → Forward proxy [ بتاع الشركات ] | Anonmous proxy [ بتاع الهاكرز ] | Reverse Proxy [ know as waf ]
             
-            ![Untitled](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/Untitled%202.png)
+            ![Untitled](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/Cyber%20Security%20369db91137f44179916e0f47855d6dd7/Untitled%202.png)
             
-            ![Untitled](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/Untitled%203.png)
+            ![Untitled]()
             
             ### Proxy and SSL interception
             
-            ![Untitled](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/Untitled%204.png)
+            ![Untitled](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/Untitled%202.png)
             
         - **WAF**
             
@@ -91,7 +91,7 @@ untrusted network, such as the Internet.
             > A WAF is a protocol **layer 7** defense (in the OSI model), and is not designed to defend against all types of attacks. This method of attack mitigation is usually part of a suite of tools which together create a holistic defense against a range of attack vectors.
             > 
             
-            ![x7ftgrsr.bmp](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/x7ftgrsr.bmp)
+            ![x7ftgrsr.bmp](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/x7ftgrsr.bmp)
             
             WAF modes → Learning mode , Active mode , Passive Mode 
             
