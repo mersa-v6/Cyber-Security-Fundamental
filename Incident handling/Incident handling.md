@@ -8,7 +8,7 @@
     
     **incident** ⇒ events with negative consequences 
     
-    **events** ⇒ 
+    **events examples** ⇒ 
     
     - system crashes ⇒ no avalibility
     - packet floods ⇒ ddos
@@ -17,14 +17,16 @@
     - execution of destructive malware
 - **Process**
     - **cyber kill chain → life sycle of hackers**
-        - reconnaissance  = باخد فكره
-        - weaponization  = اختيار النقط الضعيفه في النظام
-        - delivery  = توصيل المالوير  الي الضحيه
-        - exploitation = تنفيذ الاختراق
-        - installation = تثبيت المالوير او ايجاد باب خلفي للهاكر عشان يقدر ياكسس النظام في اي وقت
-        - command & control = استخدام النظام  المخترق في اختراق انظمه اخري
-        - action on objectives  =الهدف من الاختراق زي التسريب مثلا
-    - **life sycle of incident handeling**
+        - **reconnaissance**  = It is the stage of collecting information about the organization or company that the hacker wants to penetrate, for example, examining ports, determining the operating system, and collecting subdomains.
+        
+        - **weaponization**  = determine the vulnerability in target 
+        - **delivery**  = Trying to deliver the payload to the server or the targeted victim
+        - **exploitation** = Executing the malware
+        - **installation** = Installing malware or creating a back door for the hacker so that he can establish the system at any time
+        - **command & control** = Using the hacked system to hack other systems
+        - **action on objectives** = Implementing the goal of the hack, such as leaking data
+          
+    - ## now what about life sycle of incident handeling
         - preparation  تحضير
         - Identification  التعريف
         - containment   الاحتواء
@@ -32,23 +34,23 @@
         - recovery الاحتواء والتعافي
         - Lesson learned [ post incident activity ]   نشاط ما بعد الحادث
     
-    **بعد معرفنا طريقه الهجوم والدفاع نبدا نفصل الدفاع** 
+  **After we know the method of attack and defense, we begin to separate the defense**
     
     - **Preparation**
         
-        هي اول مرحله وبيكون فيها تجهيز ال soc 
+        It is the first stage in which the SOC is prepared 
         
-        - employees / awereness →    تحضير الموظفين وتوزيع التاسكات ومعرفه مهارات كل الناس
-        - documentation  / policy / warning banners → ايه هي الرولز و البوليسي الي هنمشي عليها وايه هي الاجرائات الي بنمشي عليها ولما يحصل مشكله هنتصرف ازاي
-        - Response plan / strategy  → هنعمل ايه في حاله ان حصل اختراق او خلل
-        - defensive measures / tools → ايه هي الاجهزه والسوفتوير الي شغالين بيه
+        - **employees / awereness** →    Preparing employees, distributing tasks, and knowing the skills of all people
+        - **documentation  / policy / warning banners** → What are the rolls and police that we will follow, and what are the procedures that we will follow, and when a problem occurs, how will we deal with them? What are the rolls and police that we will follow, and what are the procedures that we will follow, and when a problem occurs, how will we deal?
+        - **Response plan / strategy**  → What will we do if there is a hack or malfunction?
+        - **defensive measures / tools** → What devices and software are exist in organization 
     - **Identification**
         
         **Identification** involves detecting and determining an incident has occurred. This includes:
         
-        - Monitoring → Continuously monitor networks, systems, and logs for signs of suspicious activity.
-        - Detection Tools → use intrusion detection systems (IDS), antivirus software, and other monitoring tools.
-        - Incident Reporting → enable employees to report suspected security incidents.
+        - **Monitoring** → Continuously monitor networks, systems, and logs for signs of suspicious activity.
+        - **Detection Tools** → use intrusion detection systems (IDS), antivirus software, and other monitoring tools.
+        - **Incident Reporting** → enable employees to report suspected security incidents.
     - **containment**
         
          aims to limit the damage of the incident and prevent it from spreading
@@ -57,8 +59,7 @@
         - Long-term Containment → Apply more permanent measures (e.g., temporary fixes, patching vulnerabilities) to keep the threat isolated while preparing for eradication.
     - **Eradication**
         
-        يعني بنبص علي اصل الموضوع من فين اي هي جزور المشكله 
-        
+  let's look at the origin of the issue, where is the root of the problem        
         Eradication involves finding and removing the cause of the incident. Steps include:
         
         - identifying Root Cause → Determine how the incident occurred and its source.
@@ -68,7 +69,7 @@
         
         this step is includes everything related to detecting an incident
         
-        - means of detection → sensors [FW , IDS ,Agents , Logs , etc..] يعني مصدر الانسيدينت كان ايه هل حد من التيم هو الي طلعها ولا من الفايروال وهكذا
+        - means of detection → sensors [FW , IDS ,Agents , Logs , etc..] what was the source of the Incident? Was it from Team that produced it, or from the firewall, and so on?
     - **Recovery**
         
         **Recovery** focuses on restoring and validating system functionality after eradication. This includes:
