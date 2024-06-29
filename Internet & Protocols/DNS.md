@@ -3,7 +3,7 @@
 > Domain Name Server (system)
 > 
 
-بما ان الاجهزه مش بتفهم غير لغه الارقام فكنا محتاجين بروسيس او برتوكول ف النص يترجم الارقام الي اسماء يسهل حفظها 
+the devices only understand the language of numbers, so we needed a process or protocol in the text that translates the numbers into names that are easy to remember.
 
 Protocol Type: Layer7 Protocol (Application Layer)
 Purpose: Name to IP conversion
