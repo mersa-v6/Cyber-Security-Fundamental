@@ -58,11 +58,9 @@ Intrusion prevention systems (IPS) perform intrusion detection and then go one s
 2. الـ IPS يتم وضعه في مسار الـ Traffic فيقوم بالكشف عنه والإبلاغ ومحاولة التصدي له أو تغيير محتواه وإسقاط الهجمات الضارة.
 3. يمكن أن تعمل كلاً من أنظمة IPS و IDS معاً لتحقيق حماية كافية للتصدي للهجمات والتسلل الضار.
 
-![5myx4tb7.bmp](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/5myx4tb7.bmp)
+![0d3rt195.bmp](https://raw.githubusercontent.com/3laaMersa/Cyber-Security-Fundamental/main/img/0d3rt195.bmp)
 
-![0d3rt195.bmp](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/0d3rt195.bmp)
-
-![Untitled](Cyber%20Security%20369db91137f44179916e0f47855d6dd7/Untitled%205.png)
+![Untitled](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/Untitled%205.png)
 
 # **AntiVirus**
 
