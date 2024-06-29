@@ -66,13 +66,13 @@ untrusted network, such as the Internet.
             - **Pros**: Can inspect the payload of packets; provide additional security features like content filtering.
             - **Cons**: Can introduce latency; more complex to manage
             
-            ![joinhq0b.bmp](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/joinhq0b.bmp)
+            ![joinhq0b.bmp](https://raw.githubusercontent.com/3laaMersa/Cyber-Security-Fundamental/main/img/joinhq0b.bmp)
             
             Type of Proxy → Forward proxy [ بتاع الشركات ] | Anonmous proxy [ بتاع الهاكرز ] | Reverse Proxy [ know as waf ]
             
-            ![Untitled](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/Cyber%20Security%20369db91137f44179916e0f47855d6dd7/Untitled%202.png)
+            ![Untitled](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/Untitled%202.png)
             
-            ![Untitled]()
+            ![Untitled](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/img/Untitled%203.png)
             
             ### Proxy and SSL interception
             
