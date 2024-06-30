@@ -25,15 +25,20 @@ Where user     assigns a computer or device with ip address manually
 
 # 2.Dynamic ip 
 > Every device on the network will ask the DHCP server to obtain an IP address
+
 ![enter image description here](https://onlinecomputertips.com/wp-content/uploads/2021/10/bothip1.jpg)
+
 With Dora Process 
 # DORA
-**D** = Discover
-**O** = offer 
-**R** = request 
+**D** = Discover | 
+**O** = offer | 
+**R** = request |
 **A** = Acknowledament 
 
-1 .**DHCP Discover**   A client device sends a broadcast message (DHCPDISCOVER) to discover available DHCP servers.
-2.   **DHCP Offer** DHCP servers respond with a DHCPOFFER message, offering an IP address and other network settings.
+1. **DHCP Discover**   A client device sends a broadcast message (DHCPDISCOVER) to discover available DHCP servers.
+
+2. **DHCP Offer** DHCP servers respond with a DHCPOFFER message, offering an IP address and other network settings.
+  
 3. **DHCP Request** The client responds with a DHCPREQUEST message, indicating acceptance of the offered parameters.
+  
 4. **DHCP Acknowledge** The DHCP server sends a DHCPACK message, confirming the lease of the IP address and other settings.
