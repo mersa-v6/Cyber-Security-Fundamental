@@ -5,6 +5,13 @@
 
 - **The MAC** address is also known as the data link layer, which establishes and terminates a connection between two physically connected devices so that data transfer can take place. The IP address is also referred to as the network layer or the layer responsible for forwarding packets of data through different routers. ARP works between these layers.
 
+  **You can check the ARP cache of your host**
+  ```sh
+  PS C:\Users>  arp -a
+  ```
+  
+  
+
 ![enter image description here](https://www.fortinet.com/content/dam/fortinet/images/cyberglossary/what-is-arp.jpg)
 ## What Are the Types of ARP?
 
