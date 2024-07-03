@@ -5,7 +5,7 @@
 >  [confidentiality](#Confidentiality) 
 >  [integrity](#Integrity)
 >   [availability](#availability) 
->     guide for establishing security procedures and [Policy](#Policy)**
+>     guide for establishing security procedures and [Policy](https://github.com/3laaMersa/Cyber-Security-Fundamental/blob/main/2_Security%20concepts/Policy.md)**
 > 
 > 
 - # Confidentiality
