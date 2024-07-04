@@ -1,0 +1,39 @@
+# Encryption
+Encryption is used to protect data from being stolen, changed, or compromised and works by scrambling data into a secret code that can only be unlocked with a unique digital key.
+
+
+
+At its most basic level, encryption is the process of protecting information or data by using mathematical models to scramble it in such a way that only the parties who have the key to unscramble it can access it. That process can range from very simple to very complex
+> **Encryption works by encoding “ plaintext ” into “ ciphertext ”**
+## Types of encryption
+### Symmatric :
+**uses the same key to encrypt and decrypt !** 
+So The disadvantage is that if an unauthorized person gets their hands on the key, they will be able to decrypt any messages and data sent between the parties
+
+**Examples of symmetric encryption algorithms:**
+- **AES (Advanced Encryption Standard)**: It is widely used and considered one of the most secure algorithms.
+- **DES (Data Encryption Standard)**: It is considered outdated and less secure compared to AES.
+- **3DES (Triple DES)**: Uses three DES keys to provide a higher level of security than DES.
+
+---
+### Asymmatric
+Every person has two keys, one is called the public key and the other is called the private key.
+The idea of ​​asymmatric is that I, as a browser, create a public and private key. The public key role is to encrypt any file and the private key role is to decrypt this file. Therefore, if someone is able to take the public key , he will not be able to decrypt it.
+
+**Examples of asymmetric encryption algorithms:**
+- **RSA (Rivest-Shamir-Adleman):** One of the most popular asymmetric encryption algorithms, used in protocols such as HTTPS and SSL/TLS.
+
+- **ECC (Elliptic Curve Cryptography):** Provides high security using shorter keys compared to RSA.
+--- 
+ ### Basic steps of the encryption process:
+
+- **Encryption algorithm selection:** Select which algorithm to use (such as AES or RSA).
+
+ - **Key generation:** Generating the encryption key (or keys in the case of asymmetric encryption).
+
+- **Data encryption**: Using an algorithm and key to convert plaintext into ciphertext.
+
+ - **Encrypted data transmission**: sending encrypted text to the recipient.
+
+ - **Data decryption:** Using the key to decrypt the ciphertext and convert it back to plaintext.
+
