@@ -60,9 +60,9 @@
   let's look at the origin of the issue, where is the root of the problem        
         Eradication involves finding and removing the cause of the incident. Steps include:
         
-        - identifying Root Cause → Determine how the incident occurred and its source.
-        - Removing Malware → Delete malware, close vulnerabilities, and clean infected systems.
-        - System Validation → Ensure that all malicious artifacts are removed and the system is free from the threat.
+  - identifying Root Cause → Determine how the incident occurred and its source.
+    - Removing Malware → Delete malware, close vulnerabilities, and clean infected systems.
+    - System Validation → Ensure that all malicious artifacts are removed and the system is free from the threat.
     - **Detection and Analysis**
         
         this step is includes everything related to detecting an incident
